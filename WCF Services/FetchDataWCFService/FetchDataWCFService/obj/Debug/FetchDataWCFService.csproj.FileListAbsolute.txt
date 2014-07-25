@@ -1,0 +1,5 @@
+C:\Users\apandya\Documents\Visual Studio 2012\Projects\FetchDataWCFService\FetchDataWCFService\bin\FetchDataWCFService.dll
+C:\Users\apandya\Documents\Visual Studio 2012\Projects\FetchDataWCFService\FetchDataWCFService\bin\FetchDataWCFService.pdb
+C:\Users\apandya\Documents\Visual Studio 2012\Projects\FetchDataWCFService\FetchDataWCFService\obj\Debug\FetchDataWCFService.dll
+C:\Users\apandya\Documents\Visual Studio 2012\Projects\FetchDataWCFService\FetchDataWCFService\obj\Debug\FetchDataWCFService.pdb
+C:\Users\apandya\Documents\Visual Studio 2012\Projects\FetchDataWCFService\FetchDataWCFService\obj\Debug\FetchDataWCFService.csprojResolveAssemblyReference.cache

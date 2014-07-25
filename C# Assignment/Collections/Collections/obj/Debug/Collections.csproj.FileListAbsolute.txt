@@ -1,0 +1,12 @@
+D:\Assignments_2014\LearningCSharp\Collections\bin\Debug\LearningCSharp.Collections.exe.config
+D:\Assignments_2014\LearningCSharp\Collections\bin\Debug\LearningCSharp.Collections.exe
+D:\Assignments_2014\LearningCSharp\Collections\bin\Debug\LearningCSharp.Collections.pdb
+D:\Assignments_2014\LearningCSharp\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+D:\Assignments_2014\LearningCSharp\Collections\obj\Debug\LearningCSharp.Collections.exe
+D:\Assignments_2014\LearningCSharp\Collections\obj\Debug\LearningCSharp.Collections.pdb
+D:\Assignments Done\Collections\Collections\bin\Debug\LearningCSharp.Collections.exe.config
+D:\Assignments Done\Collections\Collections\obj\Debug\LearningCSharp.Collections.exe
+D:\Assignments Done\Collections\Collections\obj\Debug\LearningCSharp.Collections.pdb
+D:\Assignments Done\Collections\Collections\bin\Debug\LearningCSharp.Collections.exe
+D:\Assignments Done\Collections\Collections\bin\Debug\LearningCSharp.Collections.pdb
+D:\Assignments Done\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache

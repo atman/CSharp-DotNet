@@ -1,0 +1,15 @@
+D:\Assignments_2014\LearningCSharp\Delegates\bin\Debug\LearningCSharp.Delegates.exe.config
+D:\Assignments_2014\LearningCSharp\Delegates\bin\Debug\LearningCSharp.Delegates.exe
+D:\Assignments_2014\LearningCSharp\Delegates\bin\Debug\LearningCSharp.Delegates.pdb
+D:\Assignments_2014\LearningCSharp\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\Assignments_2014\LearningCSharp\Delegates\obj\Debug\LearningCSharp.Delegates.exe
+D:\Assignments_2014\LearningCSharp\Delegates\obj\Debug\LearningCSharp.Delegates.pdb
+D:\Assignments Done\Delegates\bin\Debug\LearningCSharp.Delegates.exe.config
+D:\Assignments Done\Delegates\obj\Debug\LearningCSharp.Delegates.exe
+D:\Assignments Done\Delegates\obj\Debug\LearningCSharp.Delegates.pdb
+D:\Assignments Done\Delegates\bin\Debug\LearningCSharp.Delegates.exe
+D:\Assignments Done\Delegates\bin\Debug\LearningCSharp.Delegates.pdb
+D:\Assignments Done\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+D:\Assignments Done\Delegates\Delegates\bin\Debug\LearningCSharp.Delegates.exe.config
+D:\Assignments Done\Delegates\Delegates\obj\Debug\LearningCSharp.Delegates.exe
+D:\Assignments Done\Delegates\Delegates\obj\Debug\LearningCSharp.Delegates.pdb

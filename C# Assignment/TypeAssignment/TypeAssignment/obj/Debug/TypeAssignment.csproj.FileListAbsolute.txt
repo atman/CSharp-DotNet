@@ -1,0 +1,5 @@
+D:\Assignments Done\TypeAssignment\TypeAssignment\bin\Debug\TYPESASSIGNMENT.exe
+D:\Assignments Done\TypeAssignment\TypeAssignment\bin\Debug\TYPESASSIGNMENT.pdb
+D:\Assignments Done\TypeAssignment\TypeAssignment\obj\Debug\TYPESASSIGNMENT.exe
+D:\Assignments Done\TypeAssignment\TypeAssignment\obj\Debug\TYPESASSIGNMENT.pdb
+D:\Assignments Done\TypeAssignment\TypeAssignment\obj\Debug\TypeAssignment.csprojResolveAssemblyReference.cache

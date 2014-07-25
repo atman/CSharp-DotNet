@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetchDataWCFService", "FetchDataWCFService\FetchDataWCFService.csproj", "{99D8D3D5-030D-464D-8C2E-7AFA1A099ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeDescriptor", "WebApplication1\EmployeeDescriptor.csproj", "{C99A69E4-D64B-46D4-BE99-0EE2761D8970}"
+	ProjectSection(ProjectDependencies) = postProject
+		{99D8D3D5-030D-464D-8C2E-7AFA1A099ADC} = {99D8D3D5-030D-464D-8C2E-7AFA1A099ADC}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D8D3D5-030D-464D-8C2E-7AFA1A099ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D8D3D5-030D-464D-8C2E-7AFA1A099ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D8D3D5-030D-464D-8C2E-7AFA1A099ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D8D3D5-030D-464D-8C2E-7AFA1A099ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C99A69E4-D64B-46D4-BE99-0EE2761D8970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C99A69E4-D64B-46D4-BE99-0EE2761D8970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C99A69E4-D64B-46D4-BE99-0EE2761D8970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C99A69E4-D64B-46D4-BE99-0EE2761D8970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
